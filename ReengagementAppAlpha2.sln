@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReengagementAppAlpha2", "ReengagementAppAlpha2\ReengagementAppAlpha2.csproj", "{005C6047-CFD4-4699-9FEF-A81F455F3DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005C6047-CFD4-4699-9FEF-A81F455F3DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005C6047-CFD4-4699-9FEF-A81F455F3DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005C6047-CFD4-4699-9FEF-A81F455F3DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005C6047-CFD4-4699-9FEF-A81F455F3DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E45D0AEE-19BD-4CF6-B3D6-C3BD85D60286}
+	EndGlobalSection
+EndGlobal
